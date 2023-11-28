@@ -3,8 +3,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 30px;
-    background-color: pink;
+    gap: 20px;
+    
 }
 .footer-logo{
     display: flex;
@@ -13,7 +13,7 @@
 }
 .footer-logo p{
     color: #383838;
-    font-size: 46px;
+    font-size: 32px;
     font-weight: 700;
     text-align: center;
     margin-top: 20px;
@@ -21,7 +21,7 @@
 .footer-links{
     display: flex;
     list-style: none;
-    gap: 50px;
+    gap: 20px;
     color: #252525;
     font-size: 30px;
 }

@@ -19,7 +19,6 @@ export default function Router() {
           <Route path='/makeup' element={<ShopCategory  category="Makeup"/>}/>
           <Route path='/skin' element={<ShopCategory  category="skin"/>}/>
           <Route path='/hair' element={<ShopCategory category="Hair"/>}/>
-          <Route path='/health' element={<ShopCategory category="healths"/>}/>
           <Route path='/frag' element={<ShopCategory category="frag"/>}/>
           <Route path='/mom_&_baby' element={<ShopCategory category="Mom and Baby"/>}/>
           <Route path="/product" element={<Product/>}>
